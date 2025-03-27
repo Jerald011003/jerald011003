@@ -1,3 +1,3 @@
-Hi there 👋
+## Hi there 👋
 
-Portfolio: https://jeraldthedev.vercel.app/
+[My Portfolio](https://jeraldthedev.vercel.app/)
