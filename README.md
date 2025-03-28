@@ -1,3 +1,3 @@
-## Check it out cuz!
+## Check it out!
 
 [My Portfolio](https://jeraldthedev.vercel.app/)
