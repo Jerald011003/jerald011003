@@ -1,3 +1,3 @@
 ## Check it out!
 
-[My Portfolio](https://jeraldthedev.vercel.app/)
+[Portfolio](https://jeraldthedev.vercel.app/)
